@@ -4,13 +4,13 @@ Este repositório serve para colocar os trabalhos efetuados durante a disciplina
 Ele está dividido de acordo com as seguintes disciplinas:
   1. Imersão em Python = 8 listas de atividades:
      
-     1ª Lista de Exercício - Conceitos Básicos, Constantes e Variáveis, Entradas e Saída.
-     3ª Lista de Exercício - Instruções de Decisão
-     4ª Lista de Exercício - Instruções de Repetição (FOR and WHILE)
-     5ª Lista de Exercício - Listas
-     6ª Lista de Exercício - Strings
-     7ª Lista de Exercício - Tuplas e Dicionários
-     8ª Lista de Exercício - Funções
+    * 1ª Lista de Exercício - Conceitos Básicos, Constantes e Variáveis, Entradas e Saída.
+    * 3ª Lista de Exercício - Instruções de Decisão
+    * 4ª Lista de Exercício - Instruções de Repetição (FOR and WHILE)
+    * 5ª Lista de Exercício - Listas
+    * 6ª Lista de Exercício - Strings
+    * 7ª Lista de Exercício - Tuplas e Dicionários
+    * 8ª Lista de Exercício - Funções
 
      
   2. Projeto Final =
