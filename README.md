@@ -1,6 +1,6 @@
 # Imersão em Python - Pós em engenharia e Análise de Dados, da Cesar School
 
-Este repositório serve para colocar os trabalhos efetuados durante a disciplina Imersão em python, da pós graduação Engenharia e Análise de Dados, da Cesar School.
+Este repositório serve para colocar os trabalhos efetuados na disciplina Imersão em python, da pós graduação Engenharia e Análise de Dados, da Cesar School.
 Ele está dividido de acordo com as seguintes disciplinas:
   1. Imersão em Python = 8 listas de atividades:
      
