@@ -13,6 +13,7 @@ Ele está dividido de acordo com as seguintes disciplinas:
     * 8ª Lista de Exercício - Funções
 
      
-  2. Projeto Final =  inclusão, atualização, exclusão, consulta e listagem de mercadorias ( projeto: Armazenamento de Estoque de uma Empresa Comercial)
+  2. Projeto Final =  O Projeto final foi a realização de um CRUD - inclusão, atualização, exclusão, consulta e listagem - em algum sistema empresarial.
+     No presente projeto foi desenvolvido o CRUD do sistema do departamento de Armazenamento de Estoque da empresa FIG bebidas.
 
 
