@@ -13,6 +13,6 @@ Ele está dividido de acordo com as seguintes disciplinas:
     * 8ª Lista de Exercício - Funções
 
      
-  2. Projeto Final =
+  2. Projeto Final =  inclusão, atualização, exclusão, consulta e listagem de mercadorias ( projeto: Armazenamento de Estoque de uma Empresa Comercial)
 
 
